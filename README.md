@@ -24,9 +24,4 @@ This Streamlit app uses Natural Language Processing (NLP), Object-Oriented Pytho
 - **PyPDF2** for reading PDF resumes
 - **OOP** for resume parsing logic
 
----
-
-## 📸 Screenshot
-
-> _You can add a screenshot here later by uploading the image and adding:_
 
